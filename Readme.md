@@ -1,5 +1,3 @@
-\page page_readme5 G431RB_Air_Quality
-
 # Project yqtVlm
 
 A partir du JSON listant les zones interdites de VirtualRegatta créer autant de fichiers '.qbar' représentant les barrières à installer dans qtVlm.  
