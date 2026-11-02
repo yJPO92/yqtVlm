@@ -1,0 +1,21 @@
+*** Notes diverses ***
+
+A partir du JSON listant les zones interdites de VirtualRegatta
+créer autant de fichiers '.qbar' représentant les barrières à installer ds qtVlm
+
+Le JSON importé depuis ITYC VR Dashboard doit d'abord être débarrassé
+des caractères ANSI (éèçà...) via Notepad2
+
+On commence les tests avec le JSON de la Route du Rhum réduit à 4 zones
+
+** références:
+https://datascientist.fr/blog/tutoriel-python-travailler-avec-les-donnees-json
+https://www.ionos.fr/digitalguide/sites-internet/developpement-web/jsonpath-dans-python/
+python multiplier chaque element d'une liste de liste
+
+** lancement du programme sous terminal:
+(.venv) C:\Users\Jean\PycharmProjects\ySmartCard>python main.py
+
+
+==============================
+
