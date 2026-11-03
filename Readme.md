@@ -7,9 +7,8 @@ A partir du JSON listant les zones interdites de VirtualRegatta créer autant de
 
 ## Software
 Python  
-pyCharm
 plugin jsonpath-ng  
-
+pyCharm  
 ## Fonctionnalities
 Parser le fichier JSON à l'aide du plugin 'jsonpath-ng',  
 en extraire les noms des zones ainsi que les coordonnées délimitant la zone,  
